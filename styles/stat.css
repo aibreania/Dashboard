@@ -1,0 +1,18 @@
+.stat {
+  margin-top: 218px;
+  margin-left: 270px;
+  margin-right: 60px;
+  border-top: 1px solid #c9ced6; }
+  .stat img {
+    margin-left: 32px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: left;
+    height: 320px; }
+  .stat img:first-child {
+    width: 55%; }
+  .stat img:last-child {
+    margin-left: 45px;
+    width: 34%; }
+
+/*# sourceMappingURL=stat.css.map */
