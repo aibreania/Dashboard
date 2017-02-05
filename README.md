@@ -8,5 +8,6 @@ A dashboard written in ReactJS, ES6, SCSS, Webpack.
 4. In the browser, type in localhost:8000
 
 ##Cloud Deployment
-Thanks to **Heroku**, I have deployed the dashboard successfully. You may click [here](https://dpengdashboard.herokuapp.com/) to check it out!
+Thanks to **Heroku**, I have deployed the dashboard successfully.  
+You may click [here](https://dpengdashboard.herokuapp.com/) to check it out!  
 Look forward for more enhancement and suggestions! Thank you!
