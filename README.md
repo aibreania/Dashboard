@@ -9,5 +9,5 @@ A dashboard written in ReactJS, ES6, SCSS, Webpack.
 
 ##Cloud Deployment
 Thanks to **Heroku**, I have deployed the dashboard successfully.  
-You may click [here](https://dpengdashboard.herokuapp.com/) to check it out!  
+You may click **[here](https://dpengdashboard.herokuapp.com/)** to check it out!  
 Look forward for more enhancement and suggestions! Thank you!
