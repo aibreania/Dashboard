@@ -8,4 +8,4 @@
 ##Cloud Deployment
 https://aibreania.github.io  
 https://dpengdashboard.herokuapp.com  
-https://danningpeng.com/test/dashboard  
+http://danningpeng.com/test/dashboard  
