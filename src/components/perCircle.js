@@ -1,5 +1,7 @@
-var React = require('react');
+import CSSModules from 'react-css-modules';
+import styles from "./styles/circle.css";
 
+var React = require('react');
 var percents = [58, 8, 18, 23, 34, 42];
 var colors = ['orange', '', 'yellow', 'red', 'green', 'purple'];
 
@@ -20,4 +22,4 @@ var Circle = React.createClass({
   }
 });
 
-module.exports = Circle;
+module.exports = CSSModules(Circle, styles);
